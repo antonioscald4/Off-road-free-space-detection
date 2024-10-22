@@ -1,2 +1,2 @@
-## Soon Available
-TwinLiteNet for off-road drivable area detection
+## TwinLiteNet for off-road drivable area segmentation
+
